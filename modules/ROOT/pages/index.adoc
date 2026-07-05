@@ -1,0 +1,100 @@
+= Programming Technologies
+
+:description: Programming Technologies course
+
+// TODO more???
+The course focuses on introducing students to Linux and various dev tools.
+
+== Key topics
+* Computer architecture
+* Linux
+** Filesystems. FHS
+** Terminals. Shells. Bash & Zsh
+** Systemd. Fork & exec
+** Signals
+** Man pages
+** Alternatives (`/etc/alternatives`)
+** Package managers: rpm & deb
+* Dev utils
+** SSH. SSH client. Rsync
+** HTTP. FTP. Curl
+** Vim. Nano. Less
+** Modern alternatives to linux utils
+** Archives: tar, gzip, zip
+* Git
+** Working with git
+** LFS
+** Submodules
+** Internal structure
+* C/C++ compilation & build
+** Compilation stages in C/C++
+** Compiling C VS Compiling C++
+** Static & shared libraries
+** Build systems: make, CMake
+** Library/package installation in CMake
+* Testing, debug & profiling
+** Gtest framework
+** Gmock framework
+** Google benchmark framework
+** Profiling tools: perf, time, flamegraph
+** Gdb. Sanitizers. Core dumps
+** Clang format & clang tidy
+** Fuzzing (Google fuzztest)
+** Mutation testing (Mull)
+** Test coverage (gcov, gcovr)
+* Virtualization & containerisation
+** Docker containers
+** Docker plugins (compose, buildx). Multi-architecture images
+** GitHub & GitLab container registries
+** DOOD & DIND
+** Docker implementation: overlayfs, chroot, linux namespaces & cgroups
+** Oracle VM Box
+
+[TIP.todo]
+====
+The "networks" block is not finalised!
+====
+* Networks
+** Nginx
+** Nmcli
+** Name resolving (`/etc/hosts`)
+* CI & CD
+** GitLab CI
+** GitHub Actions
+** GitHub & GitLab pages
+** GitLab runners
+** Antora
+* Other
+** Regex
+** JSON. YAML. XML. TOML
+** Markdown. Asciidoc
+** Sha & gpg
+** Opensource licenses
+
+== Grading system
+
+.Your grade consists of these parts:
+* `T` -- Tasks solution + code review (automated tests)
+* `I` -- Interviews (TA subjective grade)
+* `C` -- Final control work
+
+NOTE: `max{T} := 45`, `max{I} := 55` and `max{C} := 10`
+
+Final grade is `min{(T + I)/10, C}`.
+
+Course policies are located xref:ai-policy.adoc[here].
+
+
+== Instructors
+
+Lectures::
+Iwan Kalinin <mailto:koefic.cien@gmail.com[]>
+
+Teaching assistants::
+- Victoria Popova (Head TA)
+
+== Previous years
+2026 Spring::
+Visit https://atpd.gitlab.io/pta/#/progtech[this site]
+
+

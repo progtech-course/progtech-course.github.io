@@ -1,0 +1,8 @@
+.About course
+* xref:ai-policy.adoc[]
+
+._Lectures_
+* _To be published_
+
+._Assignments_
+* _To be published_

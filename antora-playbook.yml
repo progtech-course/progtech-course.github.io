@@ -1,0 +1,30 @@
+site:
+  title: ProgTech course
+  start_page: pt::index.adoc
+
+content:
+  sources:
+    - url: .
+      branches: [ '*' ]
+ui:
+  bundle:
+    url: https://github.com/progtech-course/antora-ui/releases/download/latest/ui-bundle.zip
+#    url: /home/nbah/antora-ui-default/build/ui-bundle.zip
+    snapshot: true
+  supplemental_files: ./supplemental-ui
+
+asciidoc:
+  attributes:
+    experimental: ''
+    page-pagination: ''
+    allow-uri-read: ''
+  extensions:
+    - ./lib/remote-include-processor.js
+
+antora:
+  extensions:
+    - require: '@antora/lunr-extension'
+      languages: [en, ru]
+
+#runtime:
+#  fetch: true

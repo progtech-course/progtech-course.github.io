@@ -1,0 +1,30 @@
+= Course policies
+
+== AI Usage Policy
+
+You are free to use AI to _search_ for any information. Nonetheless, you *cannot copy-paste directly* any AI-generated responses: they must be reformatted. Submitting direct responses is considered as <<plag, plagiarism>>.
+
+Remember that AI does not always provide reliable information. Never forget to verify the responses. If you fail the oral part due to the incorrect information given by AI, it is your fault.
+
+IMPORTANT: When using AI, you *must* create a file named `ai-usage.md`
+in which you include the _entire_ dialogue history (google how to export it from your AI chat). Gemini, ChatGPT, Deepseek chat history must be exported via a link.
+
+
+We strongly advise you against using AI for task solution (!= information search). You can ask us any question in the chat instead.
+
+[#plag]
+== Plagiarism Policy
+
+We define plagiarism as:
+====
+Copying and passing off as the student's own, the whole or part(s) of another person's work, including any kind of content (e.g. images), whether published or not, with or without the originator's permission and without appropriately acknowledging the source.
+
+Collusion by working collaboratively with other students to produce work that is submitted as an individual student's work.
+
+Using websites or AI to generate or reproduce content for tasks and presenting it as your own work. This will be counted as not the student's own work unless it has been declared in a special file in accordance with the rules.
+====
+.Consequences
+* If we detect any kind of plagiarism, *all* the involved students are to be punished.
+* The first time an incident is detected, the student gets a warning and their task points are replaced with a penalty
+(`-5 * max task points`).
+* The second time we detect any kind of plagiarism, it is reported to the head office and the student's final grade is set to `2`.
