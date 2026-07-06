@@ -1,0 +1,57 @@
+* Linux
+** Filesystems. FHS
+** Terminals. Shells. Bash & Zsh
+** Systemd
+** Signals
+** Man pages
+** Alternatives (`/etc/alternatives`)
+** Package managers: rpm & deb
+* Dev utils
+** SSH. SSH client. Rsync
+** HTTP. FTP. Curl
+** Vim. Nano. Less
+** Modern alternatives to linux utils
+** Archives: tar, gzip, zip
+* Git
+** Working with git
+** LFS
+** Submodules
+
+[cols="1,1",frame="none",grid="none"]
+|===
+| *C/C++ compilation & build*
+| *Java compilation & build*
+a|
+* Compilation stages in C/C++
+* Compiling C VS Compiling C++
+* Static & shared libraries
+* Build systems: make, CMake
+* Library/package installation in CMake
+* Gdb. Sanitizers. Core dumps
+* Clang format & clang tidy
+
+a|
+* JDK dev tools
+* Jigsaw project. JPMS
+* MODULEPATH & CLASSPATH
+* Apache Maven
+* Checkstyle. PMD.
+* Java runtime configuration
+|===
+
+
+* Docker
+** Docker containers
+** Docker plugins (compose, buildx). Multi-architecture images
+** GitHub container registries
+** DOOD & DIND
+* CI & CD
+** GitHub Actions
+** GitHub pages
+** Antora
+* Other
+** Regex
+** JSON. YAML. XML. TOML
+** Markdown. Asciidoc
+** Sha & gpg
+** Opensource licenses

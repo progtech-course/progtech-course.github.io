@@ -1,5 +1,5 @@
 site:
-  title: ProgTech course
+  title: ProgTech / DevTools
   start_page: pt::index.adoc
 
 content:
