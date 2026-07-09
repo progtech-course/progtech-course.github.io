@@ -1,0 +1,114 @@
+== Assignments
+
+NOTE: Java specific tasks are denoted by `J`: `task^J^` +
+C/C++ specific tasks are denoted by `C`: `task^C^`
+
+
+// [cols="a,a,a"]
+[%autowidth]
+|===
+h| Assignment h| Description h| Points
+
+|task0
+| Get known with the system
+| 0
+
+|git-ess
+| Essential git commands
+| 60
+
+|git-ad
+| Git extensions & advanced setup
+| 40
+
+|shell-setup
+| Configure shells (`rc`-files)
+| 20
+
+|bash
+| Bash scripts
+| 100
+
+|systemd
+| Create custom units & monitor
+| 30
+
+|ssh
+| Connect via ssh & configure ssh client
+| 40
+
+|ars
+| Work with different archives
+| 20
+
+|deb+rpm
+| Develop deb & rom packages
+| 50
+
+|regex^J^, regex^C^
+| Working with regex
+| 30
+
+|http
+| Work with curl & wget
+| 20
+
+|markup
+| JSON, YAML, XML + schemas
+| 20
+
+|images^C^, images^J^
+| Create png & svg pictures
+| 20
+
+|lints^C^, lints^J^
+| Use & configure linters
+| 20
+
+|man-build^C^, man-build^J^
+| Manual build
+| 20
+
+|make^C^
+| Writing Makefiles
+| 50
+
+| jigsaw^J^
+| Work with JPMS
+| 50
+
+|cmake-1^C^
+| Use CMake to build code
+| 50
+
+|cmake-2^C^
+| CMake: dependencies, installation, profiles
+| 50
+
+|maven-1^J^
+| Apache Maven: build code
+| 50
+
+|maven-2^J^
+| Apache Maven: profiles, plugins, repositories
+| 50
+
+|docker^C^, docker^J^
+| Write Dockerfiles, create & manage containers
+| 100
+
+|compose
+| Use docker compose plugin
+| 50
+
+|CI
+| Write CI scripts, create runners
+| 100
+
+|pages
+| Create & deploy a static site (Antora)
+| 50
+
+|===
+
+

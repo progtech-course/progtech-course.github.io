@@ -1,8 +1,9 @@
 .About course
 * xref:ai-policy.adoc[]
+* https://progtech-course.github.io/book[Course notes]
 
 ._Lectures_
 * _To be published_
 
-._Assignments_
+.xref:hws.adoc[Assignments]
 * _To be published_
