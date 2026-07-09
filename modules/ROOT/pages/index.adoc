@@ -1,6 +1,8 @@
-= Programming Technologies/Dev tools
+= Dev tools
+// = Programming Technologies/Dev tools
 
-:description: Programming Technologies course
+:description: Dev Tools course
+// :description: Programming Technologies course
 
 // TODO more???
 The course focuses on introducing students to Linux and various dev tools.
@@ -40,9 +42,3 @@ Teaching assistants::
 
 Assistants::
 - Mikhail Agafonov
-
-== Previous years
-2026 Spring::
-Visit https://atpd.gitlab.io/pta/#/progtech[this site]
-
-

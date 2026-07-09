@@ -1,6 +1,6 @@
 site:
   title: ProgTech / DevTools
-  start_page: pt::index.adoc
+  start_page: aut-2026::index.adoc
 
 content:
   sources:

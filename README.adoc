@@ -1,11 +1,11 @@
-= ProgTech Book
+= ProgTech & DevTools
 :url-project: https://github.com/progtech-course/progtech-course.github.io/actions/workflows
 :workflow: site.yml
 :img-ci-status: {url-project}/{workflow}/badge.svg
 
 image:{img-ci-status}[CI Status]
 
-Programming Technologies course.
+Programming Technologies & DevTools courses.
 
 All rights are reserved. The project is distributed under link:LICENSE[MPL-2.0] license.
 
