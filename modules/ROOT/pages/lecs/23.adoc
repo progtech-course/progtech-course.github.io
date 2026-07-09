@@ -1,0 +1,25 @@
+:lec-num: 23
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> CI. GitLab CI.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/PuJYQa0plls" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMAWJX7E-zH8gY14gJWz0-baSIZkGPFt1-ozh_u9xma77qkiQiKhzEAzsovEhWcBiQcYdn3CP3jE6X/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1FOV7y__j4trqZJbWjxXdXZznO0TDdecYd9EhAAAhXQA/edit?usp=sharing[Google Slides]

@@ -1,0 +1,25 @@
+:lec-num: 13
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> CMake function arg parser. Object symbols. Debugger. Sanitizers.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/VZm2oZGKyhU" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQc30Vsnt76MyuezF7DmVdmP0FtD3oKcYGKI_Z7_h_hpbZIWjTOb-qICU1PW9CiCDj6aupmQ1Qkkc0b/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1_qW8pZ0SnuPdCQssT9wCiEG9aBC1usPlPqIHqdTM6Kk/edit?usp=sharing[Google Slides]

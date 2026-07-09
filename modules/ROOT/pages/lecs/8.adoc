@@ -1,0 +1,25 @@
+:lec-num: 8
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> Terminal. Package managers. Regexp. Pipelines. Archives. Modern shell.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/Pd2dsTEwYy4" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQRhzpZQ1rWnbR4AJd7BpWsL-gBKWYYDrufNLRm_d3EPEaY8zO7nyIFTbXmNQ0qJbWJW3RS94hyNS3_/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1XzjVDul0UytdxPbWsaQQniUvAW_7PLcI6Ntll-Ys5Aw/edit?usp=sharing[Google Slides]

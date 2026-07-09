@@ -1,0 +1,25 @@
+:lec-num: 4
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> Git. Git objects. Heads. Git stash.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/BdXfeGaFbUM" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT1WSLkn_f7k0aQH4Aq-KDYuiRcSoIgWwKkFTC91e4LFKIk8Ygl2nxhZ4Kt5cT33bCbRS1wv5_HOiJX/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1pioriaDw5sDcBVrFpLN6HKMMhnOGlcAf9eofK8-xNUM/edit?usp=sharing[Google Slides]

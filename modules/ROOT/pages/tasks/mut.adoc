@@ -1,0 +1,11 @@
+= Mutation testing
+:description: Task Mutation testing
+
+
+> Branch: `mutation` +
+> Points: `50` +
+> Deadline: `17 MAY 2026 23:59:59 GMT+3`
+
+== Description
+Explore the https://mull-project.com/[Mull] project. Create examples which cover 11 different mutators. Add tests so that they kill all the mutators. Find a custom mutation which is not detected by the provided tests and commit it in an `md`
+file along with your examples.

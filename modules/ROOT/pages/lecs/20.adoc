@@ -1,0 +1,25 @@
+:lec-num: 20
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> Docker. Buildx. Manifests. Compose. Testcontainers.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/YHm10N2AOdw" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRDomWpoO6DV7PTD49oYG21h8HE7xz6aIs1C73KmMebq2JhM9jjso1h19beKTo1V7LPMkaI7uitEF-I/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1PkIsyB37E8ekyS_hDSS6qM7zIj9bLQjHawpl2kfrxvc/edit?usp=sharing[Google Slides]

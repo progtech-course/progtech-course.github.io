@@ -1,0 +1,20 @@
+= Fuzzing
+:description: Task fuzzing
+
+
+> Branch: `fuzz` +
+> Points: `50` +
+> Deadline: `17 MAY 2026 23:59:59 GMT+3`
+
+== Description
+=== Part 1 (30 points)
+Using https://github.com/google/fuzztest[fuzztest], create 3 examples of fuzzing. They must demonstrate the following errors:
+
+* Integer overflow
+* Invalid memory access
+
+=== Part 2 (20 points)
+Implement any tree structure and intentionally add a bug which occurs when the tree's depth is at least 7. Try fuzzing it with the default seed corpus. Then add a seed that helps find the bug. However, it must not be directly the failing case.
+
+Create a report and commit it as an `md`
+file with your examples.

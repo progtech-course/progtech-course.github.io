@@ -1,0 +1,25 @@
+:lec-num: 14
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> Testing. GTest. Test coverage.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/bLXUNEx5kXE" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSRe2iKZO45EeU0eiEAMu7cbgWIwB5FYW2sQ4G82pu94hMLGl1pgyy7JZJO9PCHDKVaVIGMVo2AMmeK/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1-w18FEH-e0PYYcmm0KtRp-h2hNssJWC5i7vSUMmx4Yw/edit?usp=sharing[Google Slides]

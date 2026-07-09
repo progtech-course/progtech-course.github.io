@@ -1,0 +1,25 @@
+:lec-num: 3
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> Git. Monitor and explore repository. Tags. Gitignore. Hooks. Submodules. Bundles. LFS. GitLab.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/yE7FHgYp2Rs" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzn67rlMq1MQfcn01FNIUy8O2t7FeEtFUABEv6Zhsf-JIwB8dKtKhxwz_53vBbumNQDSoYkCNwOFYI/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1JFyDT32A_vmyNpqUC-qcjKxRjy4LZyQdSPvjDEJ3-QM/edit?usp=sharing[Google Slides]

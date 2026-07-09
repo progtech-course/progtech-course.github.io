@@ -1,0 +1,25 @@
+:lec-num: 21
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> Docker. Overlayfs. Cgroups. Linux namespaces. Chroot.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/bcLgU_vzQQY" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFCzy9RgTx8AFglHVKLcG4Q5TRrGmAMkS2km6LmHS4ZOaNRImCZWg2mrkwpm3hrUON5UdrJwkuZhh4/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1srOj1K9jm9Tc_CI2IWSVv9WsmT8q1ozGPEJe2pzkCoI/edit?usp=sharing[Google Slides]

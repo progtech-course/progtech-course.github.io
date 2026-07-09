@@ -1,0 +1,25 @@
+:lec-num: 24
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> CI. GitLab Runners. GitLab Pages. Man pages.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/XlmllSH9dxc" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQc4L5BKTBzu8txKL2Wm3L_R0ixvWlS4a19WUCLWeVdcuKkgqs-bX5ET6gc_T5I8CYv1pa61ZK9648v/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1hAkUzVDaSQpj9lkIfljN0CYxRrdy7mZmpJXPVMcwDos/edit?usp=sharing[Google Slides]

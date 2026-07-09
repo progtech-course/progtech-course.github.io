@@ -1,6 +1,6 @@
-name: aut-2026
-version: Aut 2026
+name: spr-2026
+version: Spr 2026
 #title: ProgTech/DevTools
-title: DevTools
+title: ProgTech
 nav:
   - modules/ROOT/nav.adoc

@@ -1,0 +1,25 @@
+:lec-num: 18
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> Docker. Virtualisation. Build images. Dockerfile.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/lJPHQqQBokk" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRmiWKEi6cFX_aMWzjtPYttTnP9tyx4ZgVuvFukkc0AHTk0W9Ij-jYNV80BEaxEpU3J6HNj4IcKTUjp/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1IdBiFUpAEHNT5OLJVJAR5xNJK8mri72491dra0Xhh9E/edit?usp=sharing[Google Slides]

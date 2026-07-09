@@ -1,0 +1,25 @@
+:lec-num: 25
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> CI. GitHub Actions. Licenses.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/Jcv9QBz7q2E" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSy8WasRiO5Hr1WwykjhH-j_8YlaF_B8krUZmgEuWiEZVIDU9bG6T7Q-IRZmV7wZgTHXoOccjpAVxTC/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1qSBRmLJB7y5ZPWZC4M6utFy1m-cNkHvfAoBKs00wpSs/edit?usp=sharing[Google Slides]

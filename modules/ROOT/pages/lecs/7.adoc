@@ -1,0 +1,25 @@
+:lec-num: 7
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> Terminal. Systemd. Nmcli. SSH & SCP. HTTP. XML. JSON. YAML. Curl & Wget.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/JAICXyyUqDE" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXE8t1hphfMqtXAkl8V-8-gDWrFip5bRyBXt6s9wQcSRMmVmiqZAFpGYeeBwSSVC_Pe5-eQfXjBUpC/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1gTvtPc5ZoOWeiQkl5taqzTnzrHC3-P_RxPy0q6dBVy8/edit?usp=sharing[Google Slides]

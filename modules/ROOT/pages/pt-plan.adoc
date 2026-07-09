@@ -1,64 +1,21 @@
 * Computer architecture
-* Linux
-** Filesystems. FHS
-** Terminals. Shells. Bash & Zsh
-** Systemd. Fork & exec
-** Signals
-** Man pages
-** Alternatives (`/etc/alternatives`)
-** Package managers: rpm & deb
-* Dev utils
-** SSH. SSH client. Rsync
-** HTTP. FTP. Curl
-** Vim. Nano. Less
-** Modern alternatives to linux utils
-** Archives: tar, gzip, zip
-* Git
-** Working with git
-** LFS
-** Submodules
-** Internal structure
-* C/C++ compilation & build
-** Compilation stages in C/C++
-** Compiling C VS Compiling C++
-** Static & shared libraries
-** Build systems: make, CMake
-** Library/package installation in CMake
-* Testing, debug & profiling
-** Gtest framework
-** Gmock framework
-** Google benchmark framework
-** Profiling tools: perf, time, flamegraph
-** Gdb. Sanitizers. Core dumps
-** Clang format & clang tidy
-** Fuzzing (Google fuzztest)
-** Mutation testing (Mull)
-** Test coverage (gcov, gcovr)
-* Virtualization & containerisation
-** Docker containers
-** Docker plugins (compose, buildx). Multi-architecture images
-** GitHub & GitLab container registries
-** DOOD & DIND
-** Docker implementation: overlayfs, chroot, linux namespaces & cgroups
-** Oracle VM Box
-
-[TIP.todo]
-====
-The "networks" block is not finalised!
-====
-* Networks
-** Nginx
-** Nmcli
-** Name resolving (`/etc/hosts`)
-* CI & CD
-** GitLab CI
-** GitHub Actions
-** GitHub & GitLab pages
-** GitLab runners
-** Antora
-* Other
-** Regex
-** JSON. YAML. XML. TOML
-** Markdown. Asciidoc
-** Sha & gpg
-** Opensource licenses
+* Linux filesystem
+* Git. Merge Requests in GitLab. Pull Requests in GitHub
+* Shell. Bash and its alternatives
+* SSH. SSH client
+* HTTP. FTP. Working with a server via protocols. Curl CLI
+* Linux package managers (dpkg, apt)
+* Compilation stages in C/C++
+* Compiling C VS Compiling C++
+* SLL & DLL libraries
+* Build systems: make, CMake
+* Library/package installation in CMake
+* Gtest framework
+* Gmock framework
+* Benchmarks
+* Containerisation. Docker
+* Docker plugins (compose, buildx). Multi-architecture images
+* Nginx
+* GitLab CI. GitHub Actions
+* GitLab registry, GitLab pages
+* Opensource licenses

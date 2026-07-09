@@ -1,0 +1,25 @@
+:lec-num: 5
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> Terminal. Shells. Fork & exec. Processes. Shell workflow. Environment variables.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/ZCBku4a-Foc" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLC7p9H648vpyrnUQBUSRvaLPEHatno3m-Za8GGIL-pdnATs6dvTQisTwCMnZBx4egcS7ekSpBQmni/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1PBV3iF-LLu7ipf9Mj-3toimAkKBCPXK02JxCA_TTHUc/edit?usp=sharing[Google Slides]

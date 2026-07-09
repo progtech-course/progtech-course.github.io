@@ -1,0 +1,25 @@
+:lec-num: 10
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> Build systems. Make. Header guards. Project structure conventions. C++ file extensions.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/7_c8RNzLNkE" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRV1WmJsNnV6znxC8DHJPRmDRY0gqz3ee_pgf59cazrjsmxPY-DEhJ9ULFZBPNC0dGSGbfyboeha2ul/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1HUExbWFd9WV5ZMay5hZ-SVmDFshJuMSHiZ9m8BRNlN8/edit?usp=sharing[Google Slides]

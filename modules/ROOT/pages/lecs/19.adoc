@@ -1,0 +1,25 @@
+:lec-num: 19
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> Docker. Mounts. Ports. Networks. Healthchecks. Multi-staging build.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/hXvwLAy7pgA" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRFoXq0jSIAXClyjM4maw-xg_gJobHQbYXxRG34th72VFHhe9uWWyw18y5A2Kf36EDbFg_ppW4BZzv7/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/140WFjTK1ejUautFd05zINGh4feTMJY5ujNjxoNLXdCw/edit?usp=sharing[Google Slides]

@@ -1,0 +1,25 @@
+:lec-num: 9
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> Build systems. Compilation. Assembly. Object files. Linking. Static and shared libraries. Linker path.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/Urmio7eCqHs" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFhVOd73QoKy-QmN_0GwZ0m246mhudnIe6kT1h-IKlvKy4u3_EXGU1YIh898kUJ7Yq9709sTnDL0T1/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1IySbSPUygyR-JI2RbSTBh5JhDxUzIrS9sliA5a1PsjI/edit?usp=sharing[Google Slides]

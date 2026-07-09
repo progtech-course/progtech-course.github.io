@@ -1,0 +1,25 @@
+:lec-num: 22
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> Nginx. Index pages. Ascii Doctor.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/Jcv9QBz7q2E" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ6ywOXauDee8QEiv18tJdSVOFzlz_cl-OvEFqhnLZzf_Uf5ypA3kEsPj32JsVkX8ZIU7g8DH_VF21J/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1aEMNMXedwG9tmMCYMTTg9ZZrEHYkH-jYAbo2nMLDwvM/edit?usp=sharing[Google Slides]

@@ -1,0 +1,25 @@
+:lec-num: 15
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> Testing. CMock. How does GTest work.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/b5_EuPEi9nQ" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTTgeyitDiUoAerVFdeQOZF2N0tV8qkM9kSQdpKYyHMWXvb4aXEk6G6fS4j4Z7WZOclEkpyzhyAEyvz/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1ORrj1pJ_IeFxxaAW2X2bz3lkBFKZWSGzlAJ1UcD-Fjc/edit?usp=sharing[Google Slides]

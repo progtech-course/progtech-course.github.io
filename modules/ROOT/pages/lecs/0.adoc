@@ -1,0 +1,23 @@
+= Lecture 0
+
+:description: ProgTech: Lecture 0
+
+image::0.png[width=10%]
+
+{empty} +
+
+
+> Intro. Course structure. Grading system. Computer architecture. Main components. Operating system.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/p5FfbBuEBs8" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQJSSaPeNfB1-I3dpXjSzdiVxEMqkOKvaAA9m3pzSHymBxTTD2DqvMMmRFYqXNbQoYDwwqEUIlAz5ID/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1kd8ztE9iYDo1aIwuII_OMBGPbLT0VOvu2ZhL0j4Egmw/edit?usp=sharing[Google Slides]

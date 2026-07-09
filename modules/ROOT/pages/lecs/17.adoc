@@ -1,0 +1,25 @@
+:lec-num: 17
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> Testing. Fuzzing. Mutation testing. Coverages.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/Ybm-bX7NtB8" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7KFoq00cV0cTYaT4ksSMLF0YLZfKrGFeQbYhEj4n5hNZZmrSgBZ2AMyjUR31714K3kAxlnUjbM_6H/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1zUL9pogDEwI7D5KfXh-NJsayqKzn2-rhFdG2JLJvBvM/edit?usp=sharing[Google Slides]

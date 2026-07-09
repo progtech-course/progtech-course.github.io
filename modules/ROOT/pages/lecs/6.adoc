@@ -1,0 +1,25 @@
+:lec-num: 6
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> Terminal. Signals. Bash. Shebang. Magic bytes.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/gtlX4oBZcng" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRznbMVkE6qoE6hFqQfLZp2qCAaXZjAwoLgdag-VHn7FEIYZb0zC1caZZ73ePotd1N-YDxUR1J-TN1D/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1ZTHtZWAFcp4znMCxx4CiyBhf5gcHaM60659Q1FrF1Ok/edit?usp=sharing[Google Slides]

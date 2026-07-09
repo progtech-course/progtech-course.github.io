@@ -1,0 +1,25 @@
+:lec-num: 12
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> Build systems. CMake. Installation. CMake packages.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/DSFhSr4U7ek" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTnTlMdE3n3RK3udC665ba_VD0lSuHVXsL2_RAA2nTMZDQYtczdAooMX5pPN6MWm3ZlIYAgyhPlMjTN/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1omooIYQFXXCJUakkhwz0817VxhxhFtdtYNxhfO3UC10/edit?usp=sharing[Google Slides]

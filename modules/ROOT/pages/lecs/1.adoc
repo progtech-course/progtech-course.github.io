@@ -1,0 +1,25 @@
+:lec-num: 1
+:description: ProgTech: Lecture {lec-num}
+
+= Lecture {lec-num}
+
+
+image::{lec-num}.png[width=10%]
+
+{empty} +
+
+
+> Linux filesystem. Ext filesystems. FHS. Files in Linux. Essential commands.
+
+== Video
+
+++++
+<iframe src="https://www.youtube.com/embed/xJi0dzhN8dE" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+++++
+
+== Slides
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTUH_BBF2pYkbRhLfGSMn132tjLGQNzTtythu4rLbv7mGIMZug6k2SN_KCf2JInKPxvZMxFg9J_CGPU/pubembed?start=false&loop=false&delayms=3000" style="width: 100%; aspect-ratio: 10/6; border: none; margin-top: 2em" allowfullscreen></iframe>
+++++
+
+https://docs.google.com/presentation/d/1XFrS6vaV8RrhdCrnvGZJ-2haODMgfVNYpmfVgQO8E08/edit?usp=sharing[Google Slides]
