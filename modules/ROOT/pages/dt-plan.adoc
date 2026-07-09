@@ -43,11 +43,11 @@ a|
 * Docker
 ** Docker containers
 ** Docker plugins (compose, buildx). Multi-architecture images
-** GitHub container registries
+** GitLab container registries
 ** DOOD & DIND
 * CI & CD
-** GitHub Actions
-** GitHub pages
+** GitLab CI
+** GitLab pages
 ** Antora
 * Other
 ** Regex
